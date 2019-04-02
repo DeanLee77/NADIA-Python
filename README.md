@@ -12,7 +12,7 @@ another link is [ Introduction of NADIA Policy / Business rules Engine from NExS
 
 # ***Relevant NADIA project list***
 [NADIA Java](https://github.com/DeanLee77/Nadia)<br/>
-[NADIA Java REST](https://github.com/NExST-RnDLabs/NadiaRS)
+[NADIA Java REST](https://github.com/NExST-RnDLabs/NadiaRS)<br/>
 [NADIA C#](https://github.com/DeanLee77/NADIA-C.Sharp)
 
 ## 1. Introduction
