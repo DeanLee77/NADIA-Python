@@ -3,7 +3,7 @@ Open source project Nadia Rule/Policy Engine with Python.
 This project is based on original project [Nadia Rule/Inference Engine.](https://github.com/DeanLee77/Nadia).
 As this project is titled, this project is written in Python.
 
-In order to see implementation of back-end database and front-end, please see [NADIA Java REST](https://github.com/NExST-RnDLabs/NadiaRS).
+In order to see an example of implementation of back-end database and front-end, please see [NADIA Java REST](https://github.com/NExST-RnDLabs/NadiaRS).
 <br/>
 <br/>
 Video is also avaiable at [NADIA Policy / Business rules Engine from NExST.R&DLabs](https://youtu.be/xyWjscJ3LxI) <br/>
