@@ -89,4 +89,4 @@ An inference engine using forward chaining searches the inference rules until it
 
 ## 7. License
 Copyright (c) 2017-2019 individual contributors.
-Nadia-R.S is open source project and released under AGPL 3.0 License.
+Nadia-Python is open source project and released under AGPL 3.0 License.
