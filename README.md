@@ -24,7 +24,7 @@ This project is building a Rules(Policies)/Inference Engine with ease of use and
 
 ## 2. Installation/Running Project in Local
 In order to install the project in your workspace, you may need to do followings;
- 1. Install visual studio (or visual studio code);
+ 1. Install visual studio code or PyCharm CE;
  2. Install PostgreSQL, and set your database name and password.;
  
  *Please note that there will be Demo video available soon.
